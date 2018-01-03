@@ -1,0 +1,21 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: CZXT_keshe - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x804 /fo"Debug/CZXT_keshe.res" /d "_DEBUG" /d "_AFXDLL" "F:\CZXT_keshe\CZXT_keshe.rc"" 
+Creating command line "link.exe /nologo /subsystem:windows /incremental:yes /pdb:"Debug/CZXT_keshe.pdb" /debug /machine:I386 /out:"Debug/CZXT_keshe.exe" /pdbtype:sept  .\Debug\CZXT_keshe.obj .\Debug\CZXT_kesheDlg.obj .\Debug\StdAfx.obj .\Debug\CZXT_keshe.res "
+<h3>Output Window</h3>
+Compiling resources...
+Linking...
+
+
+
+<h3>Results</h3>
+CZXT_keshe.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
